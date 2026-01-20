@@ -31,7 +31,7 @@ export function Navbar() {
             href="#"
             className="text-xl font-bold text-foreground transition-colors hover:text-muted-foreground"
           >
-            {"<iONE />"}
+            {"<Intro />"}
           </a>
 
           {/* Desktop Navigation */}

@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button"
 
 const terminalLines = [
   { command: "$ whoami", response: "> Iraz Irfan - Software Engineer" },
-  { command: "$ skills", response: "> C# • ASP.NET Core • Angular • JavaScript • Python" },
+  { command: "$ skills", response: "> .NET • JavaScript • PostgreSQL • Angular" },
   { command: "$ location", response: "> Dhaka, Bangladesh" },
 ]
 

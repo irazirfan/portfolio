@@ -5,7 +5,7 @@ export function Footer() {
     <footer className="py-8 px-4 border-t border-border">
       <div className="mx-auto max-w-5xl text-center">
         <p className="text-sm text-muted-foreground">
-          {currentYear} Iraz Irfan. Built with Next.js & Tailwind CSS.
+          © {currentYear} Iraz Irfan | iONE
         </p>
       </div>
     </footer>
