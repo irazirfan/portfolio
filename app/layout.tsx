@@ -9,6 +9,8 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 const _jetBrainsMono = JetBrains_Mono({ subsets: ["latin"] });
 
+const repoName = 'portfolio';
+
 export const metadata: Metadata = {
   title: 'Iraz Irfan | iONE',
   description: 'Software Engineer at IMpulse (BD) Ltd. specializing in C#, ASP.NET, Angular, JavaScript, and building scalable applications.',
