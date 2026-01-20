@@ -2,7 +2,7 @@
 
 // This checks if we are running the 'build' command
 const isProd = process.env.NODE_ENV === 'production';
-const repoName = 'iONE_portfolio';
+const repoName = 'portfolio';
 
 const nextConfig = {
   output: 'export',
