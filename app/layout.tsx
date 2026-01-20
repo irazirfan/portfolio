@@ -11,7 +11,7 @@ const _jetBrainsMono = JetBrains_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: 'Iraz Irfan | iONE',
-  description: 'Software Engineer at IMpulse (BD) Ltd. specializing in C#, ASP.NET, Angular, JavaScript, and building scalable applications.',
+  description: 'Software Engineer at IMpulse (BD) Ltd. specializing in .NET, PostgreSQL, JavaScript, Angular and building scalable applications.',
   generator: 'v0.app',
   // icons: {
   //   icon: [
